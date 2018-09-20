@@ -1,0 +1,178 @@
+@charset "utf-8";
+#rightcol {
+	margin-left: 10px;
+	margin-top: 250px;
+	background-color: #FFFFFF;
+	float: right;
+}
+#uloin2 {
+	background-color: #000000;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow-y: hidden;
+}
+#uloin {
+	background-color: #FFFFFF;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow-y: hidden;
+}
+#uloin #paakuva {
+	background-image: url(kuvat/Vape3.jpg);
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 455px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+#vasen , #keski, #oikea{
+	width: 316px;
+	float: left;
+	background-color: #000000;
+}
+#mid{
+	float: Middle;
+}
+#vasen, #keski {
+	margin-right: 10px;
+	background-color: #000000;
+}
+#uloin #header h1 {
+	font-size: 70px;
+	margin-left: 16px;
+	float: left;
+	margin-top: 3px;
+	}
+#uloin #header h8 {
+	font-size: 70px;
+	margin-left: -156px;
+	float: left;
+	margin-top: 80px;
+	margin-right: -140px;
+}
+
+	#uloin #header h2 {
+	font-size: 40px;
+	margin-left: 10px;
+	margin-right: 80px;
+	float: left;
+	
+}
+#uloin #header p {
+	font-size: 30px;
+	padding-top: 15px;
+}
+#uloin #header ul li {
+	font-size: 20px;
+	font-variant: small-caps;
+	float: left;
+	margin-right: 20px;
+	list-style-type: none;
+	color: #FFFFFF;
+}
+#uloin #header {
+	height: 200px;
+	background-color: #000000;
+	font-size: medium;
+	
+
+}
+.kaksi_saraketta #header img {
+	right: 932px;
+	left: 300px;
+	padding-left: 416px;
+	font-size: large;
+}
+
+#uloin #paakuva {
+
+}
+
+#uloin #paakuva #teksti {
+	width: 300px;
+	position: relative;
+	top: 60px;
+	left: 60px;
+	background-color: rgba(0,0,0,0.63);
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+body {
+	background-image: url(kuvat/Vape_tausta.png), -webkit-repeating-linear-gradient(0deg,rgba(255,255,255,1.00) 0%,rgba(163,163,163,1.00) 100%);
+	background-image: url(kuvat/Vape_tausta.png), -moz-repeating-linear-gradient(0deg,rgba(255,255,255,1.00) 0%,rgba(163,163,163,1.00) 100%);
+	background-image: url(kuvat/Vape_tausta.png), -o-repeating-linear-gradient(0deg,rgba(255,255,255,1.00) 0%,rgba(163,163,163,1.00) 100%);
+	background-image: url(kuvat/Vape_tausta.png), repeating-linear-gradient(90deg,rgba(255,255,255,1.00) 0%,rgba(163,163,163,1.00) 100%);
+	background-repeat: repeat;
+	color: #FFFFFF;
+}
+#vasen li a {
+	color: #FFFFFF;
+}
+
+
+
+.kaksi_saraketta #uloin #vasen {
+	background-color: #000000;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 316px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+#me ul li a {
+	color: #000000;
+}
+#linkit ul li a {
+	color: #FFFFFF;
+}
+
+
+.kaksi_saraketta #uloin #oikea {
+	width: 622px;
+	
+	background-color: #FFFFFF;
+	color: #020202;
+}
+#Kuva {
+}
+#header #linkit ul {
+	color: #FFFFFF;
+}
+#linkit ul li {
+	color: #FFFFFF;
+}
+.kolme_saraketta #uloin2 #vasen {
+	background-color: #ffffff;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 316px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.kolme_saraketta #uloin #oikea {
+	width: 316px;
+	
+	background-color: #FFFFFF;
+	color: #020202;
+}
+.kolme_saraketta #uloin #keski {
+	width: 316px;
+	float: middle;
+	background-color: #000000
+
+}
+.kolme_saraketta #uloin #keski #h9
+	font-size: 40px
+	color: #000000
